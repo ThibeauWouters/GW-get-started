@@ -6,6 +6,14 @@ Github repository to get you started with GW data analysis.
 - Book by Sivia and Skilling
 - [Nested Sampling by Skilling](https://www.mrao.cam.ac.uk/~steve/malta2009/images/nestposter.pdf)
 
+## GW data sources
+
+- [GWOSC](https://www.gw-openscience.org/)
+- [GraceDB](https://gracedb.ligo.org/) (requires LIGO account)
+
+## GW approximants
+
+
 
 ## Parameter estimation
 
